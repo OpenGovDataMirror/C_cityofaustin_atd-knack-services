@@ -1,0 +1,4 @@
+arcgis==1.8.*
+arrow==0.15.*
+knackpy==1.0.*
+sodapy==2.1.*
